@@ -1,12 +1,3 @@
 {
-    "name": "monkey689/muiapp",
-    "require": {
-        "monkey689/muiapp": "dev-master"
-    },
-	"repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
-    }
+    "name": "monkey689/muiapp"
 }
