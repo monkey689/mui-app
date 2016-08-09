@@ -1,3 +1,6 @@
 {
-    "name": "monkey689/muiapp"
+    "name": "monkey689/muiapp",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
 }
